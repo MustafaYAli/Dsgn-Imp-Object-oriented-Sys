@@ -8,10 +8,9 @@
 
 
 ## Introduction
+This project houses the code for the final project of my course that I have enjoyed
 
-This is the final project for the Getting and Cleaning Data course. The purpose of this project is to demonstrate the ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis.
-
-<img src="" />
+<img src="https://github.com/MustafaYAli/Dsgn-Imp-Object-oriented-Sys/blob/main/Flow.png?raw=true" />
 ## Data
 A. Employees have a weekly pay 
 B. A weekly pay is conducted by employee 
